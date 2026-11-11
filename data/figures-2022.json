@@ -1,0 +1,202 @@
+{
+  "2022_TH_Q01-f1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+    "page": 0,
+    "clip": [
+      125,
+      354,
+      500,
+      519
+    ]
+  },
+  "2022_TH_Q04-f1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+    "page": 1,
+    "clip": [
+      170,
+      684,
+      420,
+      764
+    ]
+  },
+  "2022_TH_Q07-f1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+    "page": 3,
+    "clip": [
+      150,
+      162,
+      430,
+      472
+    ]
+  },
+  "2022_TH_Q11-f1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+    "page": 4,
+    "clip": [
+      80,
+      190,
+      560,
+      705
+    ]
+  },
+  "2022_TH_Q11-f2.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+    "page": 5,
+    "clip": [
+      80,
+      190,
+      560,
+      705
+    ]
+  },
+  "2022_TH_Q12-f1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_Q12.pdf",
+    "page": 0,
+    "clip": [
+      145,
+      350,
+      535,
+      620
+    ]
+  },
+  "2022_OBS-SKY_Q13-f1.pdf": {
+    "file": "2022/Observation (Sky Map)/IOAAJr_2022_Q13.pdf",
+    "page": 0,
+    "clip": [
+      35,
+      348,
+      555,
+      735
+    ]
+  },
+  "2022_TH_Q02-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S2.pdf",
+    "page": 0,
+    "clip": [
+      85,
+      380,
+      570,
+      570
+    ]
+  },
+  "2022_TH_Q03-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S3.pdf",
+    "page": 0,
+    "clip": [
+      172,
+      385,
+      500,
+      665
+    ]
+  },
+  "2022_TH_Q04-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S4.pdf",
+    "page": 0,
+    "clip": [
+      135,
+      475,
+      550,
+      683
+    ]
+  },
+  "2022_TH_Q06-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S6.pdf",
+    "page": 0,
+    "clip": [
+      175,
+      242,
+      500,
+      414
+    ]
+  },
+  "2022_TH_Q08-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S8.pdf",
+    "page": 1,
+    "clip": [
+      100,
+      65,
+      565,
+      303
+    ]
+  },
+  "2022_TH_Q09-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S9.pdf",
+    "page": 0,
+    "clip": [
+      138,
+      470,
+      515,
+      624
+    ]
+  },
+  "2022_TH_Q11-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+    "page": 5,
+    "clip": [
+      190,
+      150,
+      480,
+      415
+    ]
+  },
+  "2022_TH_Q11-s2.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+    "page": 5,
+    "clip": [
+      190,
+      515,
+      480,
+      771
+    ]
+  },
+  "2022_TH_Q11-s3.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+    "page": 8,
+    "clip": [
+      225,
+      80,
+      465,
+      320
+    ]
+  },
+  "2022_TH_Q11-s4.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+    "page": 9,
+    "clip": [
+      190,
+      155,
+      450,
+      375
+    ]
+  },
+  "2022_TH_Q12-s1.pdf": {
+    "file": "2022/Theory/IOAAJr_2022_S12.pdf",
+    "page": 1,
+    "clip": [
+      135,
+      150,
+      532,
+      418
+    ]
+  },
+  "2022_OBS-SKY_Q13-s1.pdf": {
+    "file": "2022/Observation (Sky Map)/IOAAJr_2022_S13.pdf",
+    "page": 1,
+    "clip": [
+      150,
+      75,
+      693,
+      525
+    ]
+  },
+  "2022_OBS-SKY_Q13-s2.pdf": {
+    "file": "2022/Observation (Sky Map)/IOAAJr_2022_S13.pdf",
+    "page": 2,
+    "clip": [
+      25,
+      25,
+      818,
+      482
+    ]
+  }
+}

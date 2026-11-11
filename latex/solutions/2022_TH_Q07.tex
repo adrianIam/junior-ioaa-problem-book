@@ -1,0 +1,33 @@
+The spacecraft keeps a fixed orientation and is a rigid body, so all its
+points have the same angular velocity $\omega$. The orbital equation gives
+\[
+K\frac{m_{NC}M}{r^2}=m_{NC}\omega^2r,\qquad \omega^2=\frac{KM}{r^3}.
+\]
+The balls' centripetal accelerations are
+\[
+a_{cp(a)}=a_{cp(d)}=\omega^2r,\quad
+a_{cp(b)}=\omega^2(r-d),\quad a_{cp(c)}=\omega^2(r+d).
+\]
+For (a), gravity alone supplies the centripetal force,
+\[
+T_{(a)}=K\frac{mM}{r^2}-m\omega^2r=0.
+\]
+For (b), use $d\ll r$ and $(1-d/r)^{-2}\approx1+2d/r$,
+\[
+F_{ag(b)}=K\frac{mM}{(r-d)^2}
+\approx K\frac{mM}{r^2}\left(1+\frac{2d}{r}\right),
+\]
+\[
+T_{(b)}=F_{ag(b)}-m\omega^2(r-d)
+=3K\frac{mMd}{r^3}>0.
+\]
+For (c), $(1+d/r)^{-2}\approx1-2d/r$,
+\[
+F_{ag(c)}\approx K\frac{mM}{r^2}\left(1-\frac{2d}{r}\right),\qquad
+T_{(c)}=m\omega^2(r+d)-F_{ag(c)}=3K\frac{mMd}{r^3}>0.
+\]
+% sic: An intermediate line in the official solution prints T_(c)=-3KmMd/r^3, immediately followed by the positive result reproduced here.
+For (d),
+\[T_{(d)}=m\omega^2r-K\frac{mM}{r^2}=0.\]
+Thus (a) and (d) are weightless with untensioned wires, while (b) and (c)
+have tensioned wires. The answer is (a), with $K=G$.

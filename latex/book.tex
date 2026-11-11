@@ -1,0 +1,91 @@
+% Generated chapter and index files are supplied by build_book.py.
+\documentclass[11pt,a4paper,twoside,openany]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=24mm,headheight=14pt]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{array,booktabs,longtable}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+  hidelinks,
+  bookmarksnumbered,
+  pdftitle={Junior IOAA Problems by Topic},
+  pdfsubject={Problems and official solutions from the Junior IOAA}
+}
+\graphicspath{{images/}}
+\raggedbottom
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+\setlength{\emergencystretch}{1.5em}
+
+% Reserve enough room for a heading and the beginning of its body.
+\newcommand{\headroom}{%
+  \par\begingroup
+  \dimen0=\pagegoal
+  \advance\dimen0 by-\pagetotal
+  \ifdim\dimen0<7\baselineskip\newpage\fi
+  \endgroup
+}
+\newcommand{\problemhead}[8]{%
+  \headroom\addvspace{1.2em}%
+  \phantomsection\label{prob:#2}%
+  \noindent{\large\bfseries Problem #1\enspace #3}\par\nobreak
+  {\small\color{black!65}Junior IOAA #4, #5\quad #6 #7%
+    \if\relax\detokenize{#8}\relax\else\quad #8 points\fi
+    \hfill\hyperref[sol:#2]{Solution p.\,\pageref{sol:#2}}}\par\nobreak
+  \vspace{0.25em}\hrule\vspace{0.5em}\nobreak
+}
+\newcommand{\solutionhead}[3]{%
+  \headroom\addvspace{1.2em}%
+  \phantomsection\label{sol:#2}%
+  \noindent{\large\bfseries Solution #1\enspace #3}\par\nobreak
+  {\small\color{black!65}\hyperref[prob:#2]{Problem p.\,\pageref{prob:#2}}}%
+  \par\nobreak\vspace{0.25em}\hrule\vspace{0.5em}\nobreak
+}
+\newcommand{\ioaafig}[2][0.9]{%
+  \begin{center}
+  \includegraphics[width=#1\linewidth,height=0.82\textheight,keepaspectratio]{#2}%
+  \end{center}
+}
+\newcommand{\editorialnote}[1]{\par\textit{[#1]}\par}
+
+\begin{document}
+\frontmatter
+\begin{titlepage}
+  \centering
+  \vspace*{30mm}
+  {\Huge\bfseries Junior IOAA\par}
+  \vspace{6mm}
+  {\LARGE Problems by Topic\par}
+  \vspace{8mm}
+  {\Large @@YEAR_RANGE@@\par}
+  \vfill
+  {\large Problem statements and official solutions\par}
+  \vspace{10mm}
+\end{titlepage}
+\chapter*{About this edition}
+\addcontentsline{toc}{chapter}{About this edition}
+This collection brings together the individual Junior IOAA papers for
+@@YEAR_RANGE@@. Problems are grouped by subject. Observational tasks form a
+separate chapter, grouped by round. Each chapter includes its corresponding
+official solutions.
+
+Problem statements and solution text are transcribed as editable \LaTeX.
+Figures, charts, and marked answer overlays are vector crops from the supplied
+papers. The companion crop edition preserves the original page content.
+Numerical values and mathematical notation should be checked against those
+source papers when the books are used for teaching.
+
+The original papers are the work of their authors and organising committees.
+Editorial titles support topic navigation. Notes identify missing solutions
+and differences between question and solution versions in the supplied archive.
+
+\tableofcontents
+\mainmatter
+\input{chapters}
+\backmatter
+\input{year-index}
+\end{document}

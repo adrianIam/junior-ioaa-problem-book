@@ -1,0 +1,45 @@
+\begin{description}
+\item[(a)] From Wien's law, $b=T\lambda$, where $b$ is Wien's constant, $T$ is the surface temperature, and $\lambda$ is the wavelength corresponding to the maximum peak of radiation. Hence
+\[
+b=T_A\lambda_A=T_B\lambda_B\quad\Rightarrow\quad\frac{T_A}{T_B}=\frac{\lambda_B}{\lambda_A}.
+\]\hfill(2 points)
+The Stefan--Boltzmann formula gives $L=4\pi R^2\sigma T^4$, so
+\[
+\frac{L_A}{L_B}=\left(\frac{R_A}{R_B}\right)^2\left(\frac{T_A}{T_B}\right)^4
+=\left(\frac{R_A}{R_B}\right)^2\left(\frac{\lambda_B}{\lambda_A}\right)^4
+=2^2\left(\frac{400}{650}\right)^4\approx0.57.
+\]\hfill(2 points)
+The luminosity--absolute magnitude relationship is
+\[
+\frac{L_A}{L_B}=10^{0.4(M_B-M_A)},\qquad
+\Delta M=M_A-M_B=-\frac{1}{0.4}\log_{10}\frac{L_A}{L_B}
+=-\frac{1}{0.4}\log_{10}0.57\approx0.60.
+\]\hfill(2 points)
+Also accept 0.61, possible due to rounding.
+\item[(b)] Denote by $L=L_A+L_B$ the total luminosity and by $M=0$ the absolute magnitude of the system. Comparing with the Sun,
+\[
+\frac{L}{L_\odot}=10^{0.4(M_\odot-M)}
+=\frac{L_A}{L_\odot}+\frac{L_B}{L_\odot}
+=10^{0.4(M_\odot-M_A)}+10^{0.4(M_\odot-M_B)}.
+\]\hfill(1 point)
+Thus
+\begin{align*}
+10^{-0.4M}&=10^{-0.4M_A}+10^{-0.4M_B}\\
+&=10^{-0.4(M_B+\Delta M)}+10^{-0.4M_B}.
+\end{align*}\hfill(1 point)
+It follows that
+\begin{align*}
+10^{-0.4M}&=10^{-0.4M_B}(10^{-0.4\Delta M}+1),\\
+-0.4M&=-0.4M_B+\log_{10}(10^{-0.4\Delta M}+1),\\
+M_B&=M+\frac{1}{0.4}\log_{10}(10^{-0.4\Delta M}+1)\\
+&=0+\frac{1}{0.4}\log_{10}(10^{-0.4\cdot0.61}+1)\approx0.49.
+\end{align*}\hfill(1 point)
+Then $M_A=M_B+\Delta M=0.49+0.61=1.10$. \hfill(1 point)
+
+\textbf{Alternative solution to (b).} With the same notation,
+\[
+M-M_A=-2.5\log\frac{L_A+L_B}{L_A}=-2.5\log\left(1+\frac{L_B}{L_A}\right).
+\]\hfill(2 points)
+Hence $0-M_A=-2.5\log(1+1/0.57)$ and $M_A=2.5\log(2.74)=1.10$. \hfill(1 point)
+Using the previously calculated difference, $M_B=M_A-\Delta M=1.1-0.60=0.50$. \hfill(1 point)
+\end{description}

@@ -1,0 +1,93 @@
+\begin{description}
+\item[(A)] The positions of the Earth on its orbit and the Sun's projections
+  into the zodiac belt at the three events are shown in Figures 3 and 4.
+  \ioaafig{2022_TH_Q11-s1.pdf}
+  \ioaafig{2022_TH_Q11-s2.pdf}
+  The source identifies Leo for the Hungary announcement, with midpoint
+  August 6, 2019; Aries for the proposed Romanian event, with midpoint
+  April 4, 2020; and Scorpio for November 2022.
+\item[(B)] The source lists
+  \[
+  t_H=6\ \mathrm{August}\ 2019,\qquad
+  t_{R,1}=4\ \mathrm{April}\ 2020,
+  \]
+  and leaves $t_{R,2}$ blank. It gives
+  \begin{align*}
+  \Delta t_{H-R,1}&=t_{R,1}-t_H=223\ \mathrm{days},\\
+  \Delta t_{R,1-R,2}&=t_{R,2}-t_{R,1}=\text{[blank in source]},\\
+  \Delta t_{H-R,2}&=223\ \mathrm{days}+886\ \mathrm{days}=1109\ \mathrm{days}.
+  \end{align*}
+  % sic: The source's 223-day interval does not agree with its stated dates; its R,2 date and separate interval are blank.
+  Direct protractor measurements in Figure 3 give
+  \[
+  \alpha_H\approx30^\circ,\qquad \alpha_{R,1}\approx90^\circ,
+  \qquad \alpha_{R,2}\approx60^\circ,
+  \]
+  so $\vec r_{R,1}$ is perpendicular to the apse line.
+\item[(C)] The areal velocity is constant,
+  \[
+  \Omega=\frac{\Delta A}{\Delta t}=\text{constant},\qquad
+  \frac{A_{\mathrm{ellipse}}}{T}=\frac{\Delta A}{\Delta t},\qquad
+  A_{\mathrm{ellipse}}=\pi ab.
+  \]
+  % sic: The source attributes constant areal velocity to Kepler's third law instead of the second law.
+  Using the intervals printed in the solution, $T=365.256$ days,
+  $a=149597500\,\mathrm{km}$, $b=149580670\,\mathrm{km}$, and $\pi=3.14$,
+  \begin{align*}
+  \Delta A_{H-R,1}
+    &=\frac{223}{365.256}\pi ab=4.2897\times10^{16}\,\mathrm{km^2},\\
+  \Delta A_{R,1-R,2}
+    &=\frac{886}{365.256}\pi ab=1.704\times10^{17}\,\mathrm{km^2},\\
+  \Delta A_{H-R,2}
+    &=\frac{1109}{365.256}\pi ab=2.133\times10^{17}\,\mathrm{km^2}.
+  \end{align*}
+\item[(D)] The ellipse geometry is shown in Figure 5.
+  \ioaafig{2022_TH_Q11-s3.pdf}
+  \begin{enumerate}
+  \item Since $x=c$, $y=r_{R,1}$, and $c^2=a^2-b^2$,
+    \[
+    \frac{x^2}{a^2}+\frac{y^2}{b^2}=1,\qquad
+    \frac{a^2-b^2}{a^2}+\frac{r_{R,1}^2}{b^2}=1,
+    \]
+    so
+    \[
+    r_{R,1}=\frac{b^2}{a}=149563841.9\,\mathrm{km}.
+    \]
+  \item The force equation and solar gravitational acceleration are
+    \[
+    K\frac{M_EM_S}{r_{R,1}^2}=M_Ea_{E,1},\qquad
+    a_{E,1}=\frac{KM_S}{r_{R,1}^2}\approx0.006\,\mathrm{m\,s^{-2}},
+    \]
+    \[
+    g_{S,1}=\frac{KM_S}{r_{R,1}^2}=a_{E,1}.
+    \]
+    Here the solution denotes the gravitational constant by $K$.
+  \item Figure 6 shows the velocity components.
+    \ioaafig{2022_TH_Q11-s4.pdf}
+    Conservation of angular momentum gives
+    \[
+    L_{R,1}=r_{R,1}M_Ev_{R,1}\sin\alpha
+      =r_{R,1}M_Ev_\parallel,
+    \qquad L=M_Eb\sqrt{\frac{KM_S}{a}}.
+    \]
+    With $r_{R,1}=b^2/a$,
+    \[
+    v_\parallel=\frac{a}{b}\sqrt{\frac{KM_S}{a}}
+      =29782.9\,\mathrm{m\,s^{-1}}=29.7829\,\mathrm{km\,s^{-1}}.
+    \]
+    Conservation of mechanical energy gives
+    \[
+    \frac{M_Ev_{R,1}^2}{2}-K\frac{M_EM_S}{r_{R,1}}
+      =-K\frac{M_EM_S}{2a},
+    \]
+    \[
+    v_{R,1}=\sqrt{KM_S\left(\frac2{r_{R,1}}-\frac1a\right)}
+      =29.7862\,\mathrm{km\,s^{-1}},
+    \]
+    and the source concludes
+    \[
+    v_\perp=\sqrt{v_{R,1}^2-v_\parallel^2}
+      =0.4433\,\mathrm{km\,s^{-1}}.
+    \]
+  \end{enumerate}
+\end{description}

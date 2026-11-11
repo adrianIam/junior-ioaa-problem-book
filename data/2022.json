@@ -1,0 +1,846 @@
+{
+  "year": 2022,
+  "host": "Câmpulung Moldovenesc, Romania",
+  "problems": [
+    {
+      "id": "2022_TH_Q01",
+      "label": "Q1",
+      "title": "The Stars Observed with the Telescope",
+      "round": "theory",
+      "topic": "light-and-telescopes",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            250,
+            560,
+            594
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S1.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            365,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The official S1 solution stops after the light-gathering formula without substituting the values or explicitly giving an answer letter."
+    },
+    {
+      "id": "2022_TH_Q02",
+      "label": "Q2",
+      "title": "The Sun on the Horizon",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            598,
+            560,
+            740
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 1,
+          "clip": [
+            40,
+            163,
+            560,
+            261
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S2.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            310,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S2.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The official key prints 0.0098 rad and 33.7 arcmin in the same calculation. Those numbers and the source wording about sunrise are inconsistent; they are reproduced with source comments."
+    },
+    {
+      "id": "2022_TH_Q03",
+      "label": "Q3",
+      "title": "The Escape Velocity",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 1,
+          "clip": [
+            40,
+            262,
+            560,
+            504
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S3.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            310,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S3.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The S3 file restates the problem as an Earth-relative third cosmic speed, while its derivation and final 42.42 km/s result use the Sun-relative speed asked for in the question paper."
+    },
+    {
+      "id": "2022_TH_Q04",
+      "label": "Q4",
+      "title": "The Terrestrial Satellite",
+      "round": "theory",
+      "topic": "light-and-telescopes",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 1,
+          "clip": [
+            40,
+            505,
+            560,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 2,
+          "clip": [
+            40,
+            162,
+            560,
+            225
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S4.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            431,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S4.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022_TH_Q05",
+      "label": "Q5",
+      "title": "Andromeda Galaxy Rotation",
+      "round": "theory",
+      "topic": "galaxies-and-cosmology",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 2,
+          "clip": [
+            40,
+            227,
+            560,
+            415
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S5.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            319,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The supplied S5 file solves a different version asking how long a 6 m telescope at wavelength 5 × 10^-7 m needs to detect Andromeda’s orbital motion. The official reasoning provides an orbital-period formula, but its final value of about 10^3 years is the detection time, not the period asked for in Q5.",
+      "solution_status": "variant"
+    },
+    {
+      "id": "2022_TH_Q06",
+      "label": "Q6",
+      "title": "The Sun as Seen from Saturn",
+      "round": "theory",
+      "topic": "solar-system",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 2,
+          "clip": [
+            40,
+            416,
+            560,
+            526
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S6.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            171,
+            590,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022_TH_Q07",
+      "label": "Q7",
+      "title": "Balls Suspended inside a Terrestrial Satellite",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 2,
+          "clip": [
+            40,
+            528,
+            560,
+            775
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            162,
+            560,
+            610
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S7.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            70,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S7.pdf",
+          "page": 2,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022_TH_Q08",
+      "label": "Q8",
+      "title": "Spaceship to the Sun",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            611,
+            560,
+            778
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            162,
+            560,
+            200
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S8.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            239,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S8.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022_TH_Q09",
+      "label": "Q9",
+      "title": "The Moon, Seen on the Way to the Moon",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            202,
+            560,
+            333
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S9.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            212,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S9.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The supplied S9 file solves a different version requiring the Moon’s brightness to equal the Sun’s brightness, giving 568.88 km. Q9 instead asks for 50% of the Sun’s magnitude. The solution also initially prints 348000 km for the lunar distance, then substitutes 384000 km.",
+      "solution_status": "variant"
+    },
+    {
+      "id": "2022_TH_Q10",
+      "label": "Q10",
+      "title": "The Luminosity of a Star",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 0,
+          "clip": [
+            40,
+            162,
+            560,
+            223
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q1-10.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            334,
+            560,
+            480
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S10.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            185,
+            590,
+            770
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022_TH_Q11",
+      "label": "Q11",
+      "title": "Zodiac IOAA-J 2022",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 100,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            156,
+            590,
+            320
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 1,
+          "clip": [
+            148,
+            170,
+            500,
+            778
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 2,
+          "clip": [
+            70,
+            154,
+            585,
+            720
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 3,
+          "clip": [
+            70,
+            154,
+            585,
+            465
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 4,
+          "clip": [
+            70,
+            190,
+            590,
+            720
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q11.pdf",
+          "page": 5,
+          "clip": [
+            70,
+            190,
+            590,
+            720
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 5,
+          "clip": [
+            70,
+            70,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 6,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 7,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 8,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 9,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S11.pdf",
+          "page": 10,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The supplied official key leaves the 2022 midpoint date and a separate time interval blank. Its printed 223-day interval disagrees with its stated dates; the subsequent swept areas use the source intervals. The numerical values are retained as printed."
+    },
+    {
+      "id": "2022_TH_Q12",
+      "label": "Q12",
+      "title": "The Rocket that Destroys the Threatening Asteroid",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 100,
+      "statement": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_Q12.pdf",
+          "page": 0,
+          "clip": [
+            88,
+            155,
+            590,
+            712
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Theory/IOAAJr_2022_S12.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            70,
+            590,
+            770
+          ]
+        },
+        {
+          "file": "2022/Theory/IOAAJr_2022_S12.pdf",
+          "page": 2,
+          "clip": [
+            70,
+            65,
+            590,
+            770
+          ]
+        }
+      ],
+      "solution_note": "The supplied solution describes minimum-time interception, whose perpendicular geometry is assumed directly in Q12. Its relative-velocity subtraction and squared-speed expression use v_A where the spacecraft velocity v_N would be expected. The derivation and final expression are reproduced as printed."
+    },
+    {
+      "id": "2022_OBS-SKY_Q13",
+      "label": "Q13",
+      "title": "Blind Sky Map",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_Q13.pdf",
+          "page": 0,
+          "clip": [
+            35,
+            120,
+            560,
+            735
+          ]
+        },
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_Q13.pdf",
+          "page": 1,
+          "clip": [
+            35,
+            133,
+            560,
+            770
+          ]
+        },
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_Q13.pdf",
+          "page": 2,
+          "clip": [
+            55,
+            170,
+            555,
+            300
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_S13.pdf",
+          "page": 0,
+          "clip": [
+            42,
+            28,
+            620,
+            372
+          ]
+        },
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_S13.pdf",
+          "page": 1,
+          "clip": [
+            150,
+            75,
+            693,
+            525
+          ]
+        },
+        {
+          "file": "2022/Observation (Sky Map)/IOAAJr_2022_S13.pdf",
+          "page": 2,
+          "clip": [
+            25,
+            25,
+            818,
+            482
+          ]
+        }
+      ],
+      "solution_note": "The separately issued blind sky map and the referenced IAU-code Table 1 are absent from the supplied question PDF. Two annotated charts survive in the official solution and are reproduced there."
+    },
+    {
+      "id": "2022_OBS-NIGHT_Q14",
+      "label": "Q14",
+      "title": "Observations with the Naked Eye",
+      "round": "night",
+      "topic": "observation",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Observation (Night)/IOAAJr_2022_Q14-15.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            125,
+            550,
+            622
+          ]
+        },
+        {
+          "file": "2022/Observation (Night)/IOAAJr_2022_Q14-15.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            8,
+            550,
+            115
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution or marking key for the 2022 naked-eye night-observation tasks is included in the supplied archive."
+    },
+    {
+      "id": "2022_OBS-NIGHT_Q15",
+      "label": "Q15",
+      "title": "Observations Using the Astronomical Telescope",
+      "round": "night",
+      "topic": "observation",
+      "points": null,
+      "statement": [
+        {
+          "file": "2022/Observation (Night)/IOAAJr_2022_Q14-15.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            125,
+            550,
+            210
+          ]
+        },
+        {
+          "file": "2022/Observation (Night)/IOAAJr_2022_Q14-15.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            143,
+            550,
+            660
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution or marking key for the 2022 telescope night-observation tasks is included in the supplied archive."
+    }
+  ]
+}

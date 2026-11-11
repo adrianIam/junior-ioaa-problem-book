@@ -1,0 +1,36 @@
+\begin{description}
+\item[(a)] The pixel scale is the ratio of the angular dimension to its diameter in pixels,
+\[
+s=\frac{2R_\oplus/d}{\alpha_\oplus}.
+\]\hfill(1 point)
+Numerically,
+\[
+s=\frac{2\times6.378\times10^3}{1.50\times10^6}\frac{180\times3600}{\pi}\frac1{60}=29\,\mathrm{arcsec/pix}.
+\]\hfill(1 point)
+\item[(b)] Rayleigh's criterion gives
+\[
+\theta=1.22\frac\lambda D=\frac{1.22\times550\times10^{-9}}{0.01}\frac{180\times3600}{\pi}=13.8\,\mathrm{arcsec}.
+\]\hfill(0.5 point)
+Thus $\theta<s\times(1\,\mathrm{pix})$. \hfill(0.5 point)
+A detectable feature should be comparable to one pixel's linear projection, $l=s\times(1\,\mathrm{pix})\times\Delta_c$. \hfill(1 point)
+Solutions using 2 or 3 pixels receive full credit. Numerically,
+\[
+l=29\,\mathrm{arcsec}\times\frac{\pi}{180\times3600}\times100\,\mathrm m=1.4\,\mathrm{cm}.
+\]\hfill(1 point)
+\item[(c)] Signal per pixel is proportional to surface brightness and exposure, $S\propto Bt$. \hfill(1 point)
+For reflected sunlight, $B\propto A/r^2$. \hfill(1 point)
+Hence
+\[
+\frac{B_{\mathrm{NEA}}}{B_\oplus}=\frac{A_{\mathrm{NEA}}r_\oplus^2}{A_\oplus r_{\mathrm{NEA}}^2}.
+\]\hfill(1 point)
+Surface brightness is independent of the distance between the sensor and the extended target. Both Earth and the NEA are extended objects. For similar signal levels,
+\[
+t_{\mathrm{NEA}}=t_{\mathrm{Earth}}\frac{A_\oplus r_{\mathrm{NEA}}^2}{A_{\mathrm{NEA}}r_\oplus^2}.
+\]\hfill(1 point)
+Numerically,
+\[
+t_{\mathrm{NEA}}=t_{\mathrm{Earth}}\frac{0.30}{0.10}\left(\frac{1.20}{1.00}\right)^2=4.32t_{\mathrm{Earth}}.
+\]\hfill(0.5 point)
+The exposure interval is $2.16\,\mathrm s$--$43.2\,\mathrm s$. \hfill(0.5 point)
+% editorial: The solution uses Earth albedo A_Earth=0.30, not specified in this problem's text.
+\end{description}

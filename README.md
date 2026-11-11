@@ -18,6 +18,32 @@ topic, and source crop. Figures are extracted from explicit crop recipes.
 Missing official solutions and mismatched source variants carry explanatory
 notes. Verification records are kept in [verification/](verification/).
 
+## Coverage
+
+| Year | Problems | Entries with official solution material |
+|---|---:|---:|
+| 2022 | 15 | 13 |
+| 2023 | 16 | 12 |
+| 2024 | 17 | 17 |
+| 2025 | 16 | 16 |
+| Total | 64 | 58 |
+
+Two 2022 keys answer different variants of their questions. Those entries
+preserve the supplied reasoning and identify the mismatch visibly. The two
+2022 night-observation tasks and four 2023 observation tasks have no keys in
+the supplied archive.
+
+The 2022 multiple-choice section is worth 100 points in total. Individual
+allocations are unspecified in the papers and are omitted from the problem
+headings.
+
+The separately handed-out blind sky map and IAU-code table for 2022 Q13 are
+absent from the question file. Its surviving annotated solution maps are
+included. The 2023 telescope papers contain alternative observing tasks, both
+of which are catalogued. The 2024 sky-map entries follow the 72-point round in
+the combined question paper that matches the official key, with notes
+identifying the separately issued 75-point variant.
+
 ## Build
 
 Use Python 3.10 or later, PyMuPDF, and a TeX installation with latexmk,

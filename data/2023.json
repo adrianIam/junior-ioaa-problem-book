@@ -1,0 +1,768 @@
+{
+  "year": 2023,
+  "host": "Volos, Greece",
+  "problems": [
+    {
+      "id": "2023_TH_Q01",
+      "label": "Q1",
+      "title": "Horizon crossing",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            143,
+            557,
+            471
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            485,
+            559,
+            570
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q02",
+      "label": "Q2",
+      "title": "Planet orbits",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            471,
+            557,
+            623
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 4,
+          "clip": [
+            60,
+            320,
+            489,
+            692
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 5,
+          "clip": [
+            40,
+            143,
+            560,
+            368
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q03",
+      "label": "Q3",
+      "title": "Unresolved binary star",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 3,
+          "clip": [
+            40,
+            623,
+            557,
+            732
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 6,
+          "clip": [
+            40,
+            265,
+            560,
+            365
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q04",
+      "label": "Q4",
+      "title": "Rapidly spinning neutron star",
+      "round": "theory",
+      "topic": "stellar-evolution",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            143,
+            557,
+            295
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            238,
+            554,
+            255
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 2,
+          "clip": [
+            43,
+            190,
+            554,
+            234
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 7,
+          "clip": [
+            40,
+            316,
+            559,
+            479
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q05",
+      "label": "Q5",
+      "title": "Moon phases",
+      "round": "theory",
+      "topic": "time-and-calendars",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            295,
+            557,
+            356
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 8,
+          "clip": [
+            40,
+            200,
+            559,
+            331
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q06",
+      "label": "Q6",
+      "title": "Solar eclipse",
+      "round": "theory",
+      "topic": "solar-system",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            356,
+            557,
+            630
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 2,
+          "clip": [
+            43,
+            190,
+            554,
+            325
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 9,
+          "clip": [
+            40,
+            395,
+            560,
+            590
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q07",
+      "label": "Q7",
+      "title": "Parallax and proper motion",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 4,
+          "clip": [
+            40,
+            630,
+            557,
+            785
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            182,
+            554,
+            214
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            352,
+            554,
+            413
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            583,
+            554,
+            601
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 10,
+          "clip": [
+            40,
+            333,
+            560,
+            566
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q08",
+      "label": "Q8",
+      "title": "Telescope",
+      "round": "theory",
+      "topic": "light-and-telescopes",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 5,
+          "clip": [
+            40,
+            143,
+            557,
+            228
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 11,
+          "clip": [
+            40,
+            222,
+            560,
+            313
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q09",
+      "label": "Q9",
+      "title": "Cosmology",
+      "round": "theory",
+      "topic": "galaxies-and-cosmology",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 5,
+          "clip": [
+            40,
+            228,
+            557,
+            356
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 12,
+          "clip": [
+            77,
+            265,
+            371,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q10",
+      "label": "Q10",
+      "title": "H-R diagram",
+      "round": "theory",
+      "topic": "stellar-evolution",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 5,
+          "clip": [
+            40,
+            356,
+            557,
+            757
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 12,
+          "clip": [
+            40,
+            583,
+            560,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q11",
+      "label": "Q11",
+      "title": "Sirius A and B",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 40,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 6,
+          "clip": [
+            40,
+            143,
+            557,
+            471
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 5,
+          "clip": [
+            40,
+            429,
+            322,
+            642
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            214,
+            554,
+            232
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            352,
+            554,
+            435
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 2,
+          "clip": [
+            43,
+            190,
+            554,
+            234
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 13,
+          "clip": [
+            57,
+            494,
+            560,
+            759
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 14,
+          "clip": [
+            57,
+            143,
+            559,
+            440
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_TH_Q12",
+      "label": "Q12",
+      "title": "Satellites",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 40,
+      "statement": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 6,
+          "clip": [
+            40,
+            471,
+            557,
+            748
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 7,
+          "clip": [
+            57,
+            143,
+            558,
+            178
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            238,
+            554,
+            255
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 1,
+          "clip": [
+            43,
+            562,
+            554,
+            580
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+          "page": 2,
+          "clip": [
+            43,
+            190,
+            554,
+            302
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 15,
+          "clip": [
+            57,
+            464,
+            560,
+            777
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 16,
+          "clip": [
+            57,
+            143,
+            560,
+            756
+          ]
+        },
+        {
+          "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+          "page": 17,
+          "clip": [
+            220,
+            141,
+            414,
+            180
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023_OBS-SKY_Q13",
+      "label": "Q13",
+      "title": "Navigating the night sky I",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            142,
+            529,
+            675
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            140,
+            529,
+            755
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+          "page": 2,
+          "clip": [
+            70,
+            136,
+            528,
+            781
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+          "page": 3,
+          "clip": [
+            100,
+            138,
+            528,
+            716
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+          "page": 4,
+          "clip": [
+            120,
+            138,
+            530,
+            720
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+    },
+    {
+      "id": "2023_OBS-SKY_Q14",
+      "label": "Q14",
+      "title": "Navigating the night sky II",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 0,
+          "clip": [
+            70,
+            140,
+            529,
+            756
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            140,
+            529,
+            756
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 2,
+          "clip": [
+            70,
+            136,
+            528,
+            790
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 3,
+          "clip": [
+            70,
+            136,
+            528,
+            710
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 4,
+          "clip": [
+            70,
+            136,
+            528,
+            783
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 5,
+          "clip": [
+            70,
+            136,
+            528,
+            775
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+          "page": 6,
+          "clip": [
+            70,
+            136,
+            528,
+            736
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+    },
+    {
+      "id": "2023_OBS-TEL_Q15",
+      "label": "Q15",
+      "title": "Sun observations",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
+          "page": 0,
+          "clip": [
+            69,
+            136,
+            575,
+            652
+          ]
+        },
+        {
+          "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
+          "page": 2,
+          "clip": [
+            173,
+            245,
+            439,
+            511
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+    },
+    {
+      "id": "2023_OBS-TEL_Q16",
+      "label": "Q16",
+      "title": "Cloudy sky observations",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
+          "page": 1,
+          "clip": [
+            69,
+            136,
+            575,
+            652
+          ]
+        }
+      ],
+      "solution": null,
+      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+The supplied solution formulates the perpendicular-intercept geometry
+as a minimum-time interception. Figure 2 shows the absolute rocket path
+$NC$ perpendicular to the asteroid path $AC$.
+\ioaafig{2022_TH_Q12-s1.pdf}
+With $L=NA$, the distances traveled are
+\[
+D=v_At_{\min}=L\cos\alpha,\qquad d=v_Rt_{\min}=L\sin\alpha.
+\]
+Thus
+\[
+t_{\min}=\frac{L\cos\alpha}{v_A}=\frac{L\sin\alpha}{v_R},
+\qquad v_R=v_A\tan\alpha.
+\]
+The source then prints
+\[
+\vec v_{RN}=\vec v_R-\vec v_A,
+\qquad
+v_{RN}^2=v_R^2+v_A^2-2v_Rv_N\cos(90^\circ-\alpha)
+=v_R^2+v_A^2-2v_Rv_N\sin\alpha.
+\]
+% sic: The printed relative-velocity subtraction and squared term use v_A where v_N would be expected for the spacecraft velocity.
+The transverse components in the figure give
+\[
+v_R\cos\alpha=v_{RN}\cos(\beta-90^\circ)=v_{RN}\sin\beta,
+\]
+so
+\[
+\sin\beta=\frac{v_R}{v_{RN}}\cos\alpha
+  =\frac{v_A}{v_{RN}}\sin\alpha.
+\]
+Substituting $v_R=v_A\tan\alpha$ into the source's squared-speed expression,
+\begin{align*}
+v_{RN}^2
+ &=v_A^2\frac{\sin^2\alpha}{\cos^2\alpha}+v_A^2
+      -2v_Av_N\frac{\sin^2\alpha}{\cos\alpha}\\
+ &=\frac{v_A^2}{\cos^2\alpha}
+      -2v_Av_N\frac{\sin^2\alpha}{\cos\alpha},
+\end{align*}
+\[
+v_{RN}=\frac{v_A}{\cos\alpha}
+\sqrt{1-2\frac{v_N}{v_A}\sin^2\alpha\cos\alpha}.
+\]
+The official final result is
+\[
+\boxed{\sin\beta=
+\frac{\sin\alpha\cos\alpha}
+{\sqrt{1-2(v_N/v_A)\sin^2\alpha\cos\alpha}}}.
+\]

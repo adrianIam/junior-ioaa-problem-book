@@ -1,0 +1,192 @@
+{
+  "2023_TH_Q01-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 3,
+    "clip": [
+      110,
+      240,
+      483,
+      468
+    ]
+  },
+  "2023_TH_Q02-s1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+    "page": 4,
+    "clip": [
+      60,
+      320,
+      489,
+      692
+    ]
+  },
+  "2023_TH_Q03-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 3,
+    "clip": [
+      237,
+      674,
+      370,
+      725
+    ]
+  },
+  "2023_TH_Q04-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 4,
+    "clip": [
+      225,
+      200,
+      365,
+      292
+    ]
+  },
+  "2023_TH_Q06-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 4,
+    "clip": [
+      40,
+      475,
+      440,
+      620
+    ]
+  },
+  "2023_TH_Q07-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 4,
+    "clip": [
+      40,
+      700,
+      440,
+      780
+    ]
+  },
+  "2023_TH_Q10-f1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",
+    "page": 5,
+    "clip": [
+      40,
+      429,
+      322,
+      642
+    ]
+  },
+  "2023_TH_Q12-s1.pdf": {
+    "file": "2023/Theory/IOAAJr_2023_S1-12.pdf",
+    "page": 15,
+    "clip": [
+      56,
+      562,
+      513,
+      751
+    ]
+  },
+  "2023_OBS-SKY_Q13-f1.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+    "page": 0,
+    "clip": [
+      70,
+      474,
+      528,
+      674
+    ]
+  },
+  "2023_OBS-SKY_Q13-f2.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+    "page": 2,
+    "clip": [
+      70,
+      136,
+      528,
+      781
+    ]
+  },
+  "2023_OBS-SKY_Q13-f3.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+    "page": 3,
+    "clip": [
+      100,
+      138,
+      528,
+      716
+    ]
+  },
+  "2023_OBS-SKY_Q13-f4.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
+    "page": 4,
+    "clip": [
+      120,
+      138,
+      530,
+      720
+    ]
+  },
+  "2023_OBS-SKY_Q14-f1.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+    "page": 2,
+    "clip": [
+      70,
+      136,
+      528,
+      790
+    ]
+  },
+  "2023_OBS-SKY_Q14-f2.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+    "page": 3,
+    "clip": [
+      70,
+      136,
+      528,
+      710
+    ]
+  },
+  "2023_OBS-SKY_Q14-f3.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+    "page": 4,
+    "clip": [
+      70,
+      136,
+      528,
+      783
+    ]
+  },
+  "2023_OBS-SKY_Q14-f4.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+    "page": 5,
+    "clip": [
+      70,
+      136,
+      528,
+      775
+    ]
+  },
+  "2023_OBS-SKY_Q14-f5.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q14.pdf",
+    "page": 6,
+    "clip": [
+      70,
+      136,
+      528,
+      736
+    ]
+  },
+  "2023_OBS-TEL_Q15-f1.pdf": {
+    "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
+    "page": 2,
+    "clip": [
+      173,
+      245,
+      439,
+      511
+    ]
+  },
+  "2023_OBS-TEL_Q16-f1.pdf": {
+    "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
+    "page": 1,
+    "clip": [
+      70,
+      288,
+      544,
+      416
+    ]
+  }
+}

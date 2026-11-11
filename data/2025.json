@@ -1,0 +1,768 @@
+{
+  "year": 2025,
+  "host": "Piatra Neamț, Romania",
+  "problems": [
+    {
+      "id": "2025_TH_Q01",
+      "label": "Th.1",
+      "title": "Binary System",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 1,
+          "clip": [
+            78,
+            73,
+            520,
+            197
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 1,
+          "clip": [
+            78,
+            204,
+            554,
+            630
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 2,
+          "clip": [
+            103,
+            75,
+            546,
+            505
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q02",
+      "label": "Th.2",
+      "title": "Speed of Asteroid",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 3,
+          "clip": [
+            78,
+            73,
+            520,
+            231
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 3,
+          "clip": [
+            78,
+            255,
+            554,
+            790
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q03",
+      "label": "Th.3",
+      "title": "Where is Theodor?",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 4,
+          "clip": [
+            78,
+            73,
+            520,
+            549
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 4,
+          "clip": [
+            78,
+            560,
+            554,
+            801
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 5,
+          "clip": [
+            88,
+            75,
+            554,
+            505
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q04",
+      "label": "Th.4",
+      "title": "Exploring NEAs",
+      "round": "theory",
+      "topic": "light-and-telescopes",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 6,
+          "clip": [
+            78,
+            73,
+            520,
+            411
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 6,
+          "clip": [
+            78,
+            430,
+            554,
+            790
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 7,
+          "clip": [
+            78,
+            75,
+            554,
+            426
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q05",
+      "label": "Th.5",
+      "title": "Ceahlau Mountain",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 8,
+          "clip": [
+            78,
+            73,
+            520,
+            304
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 8,
+          "clip": [
+            78,
+            318,
+            554,
+            797
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q06",
+      "label": "Th.6",
+      "title": "The Flying Aquila",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 9,
+          "clip": [
+            78,
+            73,
+            520,
+            304
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 9,
+          "clip": [
+            78,
+            314,
+            554,
+            796
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 10,
+          "clip": [
+            103,
+            75,
+            554,
+            766
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q07",
+      "label": "Th.7",
+      "title": "Lunar Eclipse",
+      "round": "theory",
+      "topic": "solar-system",
+      "points": 30,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 11,
+          "clip": [
+            78,
+            73,
+            520,
+            522
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 12,
+          "clip": [
+            78,
+            73,
+            560,
+            702
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 13,
+          "clip": [
+            78,
+            73,
+            540,
+            517
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 13,
+          "clip": [
+            78,
+            547,
+            554,
+            663
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 14,
+          "clip": [
+            78,
+            73,
+            554,
+            796
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 15,
+          "clip": [
+            78,
+            73,
+            554,
+            796
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q08",
+      "label": "Th.8",
+      "title": "Roche Limit, Hill Sphere, Lagrange Points",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 40,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 16,
+          "clip": [
+            78,
+            73,
+            520,
+            558
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 16,
+          "clip": [
+            78,
+            566,
+            554,
+            803
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 17,
+          "clip": [
+            78,
+            75,
+            554,
+            810
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 18,
+          "clip": [
+            78,
+            75,
+            554,
+            810
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 19,
+          "clip": [
+            78,
+            75,
+            554,
+            810
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 20,
+          "clip": [
+            78,
+            75,
+            554,
+            810
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 21,
+          "clip": [
+            103,
+            75,
+            546,
+            147
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_TH_Q09",
+      "label": "Th.9",
+      "title": "Lightcurves",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 40,
+      "statement": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 22,
+          "clip": [
+            78,
+            73,
+            520,
+            653
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 22,
+          "clip": [
+            78,
+            674,
+            554,
+            795
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 23,
+          "clip": [
+            78,
+            73,
+            554,
+            804
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 24,
+          "clip": [
+            78,
+            73,
+            554,
+            804
+          ]
+        },
+        {
+          "file": "2025/Theory/IOAAJr_2025_Q1-9.pdf",
+          "page": 25,
+          "clip": [
+            78,
+            73,
+            554,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-SKY_Q10",
+      "label": "OM1",
+      "title": "Know Your Sky",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 40,
+      "statement": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 2,
+          "clip": [
+            51,
+            138,
+            545,
+            773
+          ]
+        },
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 3,
+          "clip": [
+            51,
+            122,
+            545,
+            208
+          ]
+        },
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 4,
+          "clip": [
+            61,
+            140,
+            542,
+            615
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 5,
+          "clip": [
+            61,
+            140,
+            542,
+            615
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-SKY_Q11",
+      "label": "OM2",
+      "title": "Chart and Time",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 3,
+          "clip": [
+            51,
+            214,
+            545,
+            529
+          ]
+        },
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 6,
+          "clip": [
+            54,
+            124,
+            541,
+            705
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 7,
+          "clip": [
+            54,
+            124,
+            545,
+            706
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-SKY_Q12",
+      "label": "OM3",
+      "title": "Missing Stars",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 10,
+      "statement": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 3,
+          "clip": [
+            51,
+            535,
+            545,
+            751
+          ]
+        },
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 8,
+          "clip": [
+            51,
+            126,
+            545,
+            706
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Sky Map)/IOAAJr_2025_Q10-12.pdf",
+          "page": 9,
+          "clip": [
+            51,
+            126,
+            548,
+            706
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-TEL_Q13",
+      "label": "OT1",
+      "title": "Telescope Adjustment Knobs",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 4,
+      "statement": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 1,
+          "clip": [
+            51,
+            136,
+            543,
+            405
+          ]
+        },
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 2,
+          "clip": [
+            51,
+            124,
+            543,
+            237
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 4,
+          "clip": [
+            55,
+            120,
+            530,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-TEL_Q14",
+      "label": "OT2",
+      "title": "Coordinate Identification",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 9,
+      "statement": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 2,
+          "clip": [
+            51,
+            268,
+            543,
+            409
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 4,
+          "clip": [
+            55,
+            255,
+            530,
+            411
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-TEL_Q15",
+      "label": "OT3",
+      "title": "Constellation through the Eyepiece",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 20,
+      "statement": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 2,
+          "clip": [
+            51,
+            443,
+            543,
+            641
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 4,
+          "clip": [
+            51,
+            413,
+            568,
+            725
+          ]
+        },
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 5,
+          "clip": [
+            55,
+            119,
+            530,
+            273
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025_OBS-TEL_Q16",
+      "label": "OT4",
+      "title": "Objects and Telescope Coordinates",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 27,
+      "statement": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 3,
+          "clip": [
+            51,
+            123,
+            543,
+            264
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 5,
+          "clip": [
+            33,
+            281,
+            530,
+            783
+          ]
+        },
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 6,
+          "clip": [
+            55,
+            112,
+            530,
+            780
+          ]
+        },
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 7,
+          "clip": [
+            55,
+            112,
+            530,
+            780
+          ]
+        },
+        {
+          "file": "2025/Observation (Telescope)/IOAAJr_2025_Q13-16.pdf",
+          "page": 8,
+          "clip": [
+            55,
+            112,
+            530,
+            372
+          ]
+        }
+      ]
+    }
+  ]
+}

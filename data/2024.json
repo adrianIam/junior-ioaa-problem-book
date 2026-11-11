@@ -1,0 +1,1050 @@
+{
+  "year": 2024,
+  "host": "Kathmandu, Nepal",
+  "source_note": "The combined papers include a separate group competition, outside this individual-problem collection. Observation follows the combined 72-point version matching the key; the standalone 75-point variant is preserved in the source archive.",
+  "problems": [
+    {
+      "id": "2024_TH_T01",
+      "label": "T1",
+      "title": "Telescope limiting magnitude and interstellar extinction",
+      "round": "theory",
+      "topic": "light-and-telescopes",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 4,
+          "clip": [
+            54,
+            122,
+            550,
+            420
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 4,
+          "clip": [
+            125,
+            120,
+            550,
+            486
+          ]
+        }
+      ],
+      "solution_note": "The official extinction solution has a sign inconsistency between its printed intermediate magnitude equation and subsequent iteration formula. Both expressions are retained."
+    },
+    {
+      "id": "2024_TH_T02",
+      "label": "T2",
+      "title": "Energy and speed in an elliptical orbit",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 4,
+          "clip": [
+            54,
+            422,
+            550,
+            528
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 4,
+          "clip": [
+            125,
+            487,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 5,
+          "clip": [
+            125,
+            122,
+            550,
+            448
+          ]
+        }
+      ],
+      "solution_note": "The official key displays the reciprocal of the speed ratio requested in the question. Its relation is retained."
+    },
+    {
+      "id": "2024_TH_T03",
+      "label": "T3",
+      "title": "Longitude and local time in Nepal",
+      "round": "theory",
+      "topic": "time-and-calendars",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 4,
+          "clip": [
+            54,
+            530,
+            550,
+            750
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            326,
+            535,
+            347
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            423,
+            535,
+            447
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            85,
+            614,
+            475,
+            688
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 5,
+          "clip": [
+            125,
+            449,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 6,
+          "clip": [
+            125,
+            122,
+            550,
+            216
+          ]
+        }
+      ],
+      "solution_note": "The official longitude calculation multiplies by cos(latitude), and its Ranchi clock time is inconsistent with the stated watch offsets. The published expressions and answers are retained."
+    },
+    {
+      "id": "2024_TH_T04",
+      "label": "T4",
+      "title": "A Cepheid period-luminosity relation",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 5,
+          "clip": [
+            54,
+            122,
+            550,
+            543
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 6,
+          "clip": [
+            125,
+            217,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 7,
+          "clip": [
+            125,
+            110,
+            550,
+            348
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_TH_T05",
+      "label": "T5",
+      "title": "Altitude of a geostationary satellite",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 5,
+          "clip": [
+            54,
+            545,
+            550,
+            650
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 1,
+          "clip": [
+            125,
+            288,
+            480,
+            315
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            326,
+            535,
+            347
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            423,
+            535,
+            447
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            85,
+            614,
+            475,
+            688
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            560,
+            530,
+            584
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 7,
+          "clip": [
+            125,
+            349,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 8,
+          "clip": [
+            125,
+            130,
+            550,
+            246
+          ]
+        }
+      ],
+      "solution_note": "The question says prime meridian, while the official solution assumes the satellite is on Kathmandu's local meridian."
+    },
+    {
+      "id": "2024_TH_T06",
+      "label": "T6",
+      "title": "The lunar calendar and Dashain",
+      "round": "theory",
+      "topic": "time-and-calendars",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 5,
+          "clip": [
+            54,
+            651,
+            550,
+            750
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 6,
+          "clip": [
+            54,
+            116,
+            550,
+            208
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            665,
+            530,
+            686
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 8,
+          "clip": [
+            125,
+            247,
+            550,
+            536
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_TH_T07",
+      "label": "T7",
+      "title": "The Cosmic Horseshoe",
+      "round": "theory",
+      "topic": "galaxies-and-cosmology",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 6,
+          "clip": [
+            54,
+            209,
+            550,
+            593
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 8,
+          "clip": [
+            125,
+            537,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 9,
+          "clip": [
+            125,
+            122,
+            550,
+            315
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_TH_T08",
+      "label": "T8",
+      "title": "Rising Sagarmatha and angular separation",
+      "round": "theory",
+      "topic": "celestial-sphere",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 6,
+          "clip": [
+            54,
+            594,
+            550,
+            763
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 7,
+          "clip": [
+            54,
+            116,
+            550,
+            150
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            85,
+            614,
+            475,
+            688
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 9,
+          "clip": [
+            125,
+            316,
+            550,
+            605
+          ]
+        }
+      ],
+      "solution_note": "The official rise-time calculation assumes local-noon culmination and does not use the supplied equinox epoch, date or right ascension. The official answer is retained."
+    },
+    {
+      "id": "2024_TH_T09",
+      "label": "T9",
+      "title": "Free fall inside a gas cloud",
+      "round": "theory",
+      "topic": "orbital-mechanics",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 7,
+          "clip": [
+            54,
+            151,
+            550,
+            464
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 9,
+          "clip": [
+            125,
+            606,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 10,
+          "clip": [
+            125,
+            122,
+            550,
+            444
+          ]
+        }
+      ],
+      "solution_note": "The official escape-energy equation omits a mass factor in its internal-potential term. The published equation and final speed are retained."
+    },
+    {
+      "id": "2024_TH_T10",
+      "label": "T10",
+      "title": "A spectroscopic binary system",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 7,
+          "clip": [
+            54,
+            465,
+            550,
+            750
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 8,
+          "clip": [
+            54,
+            116,
+            550,
+            756
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 9,
+          "clip": [
+            54,
+            116,
+            550,
+            208
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 1,
+          "clip": [
+            125,
+            288,
+            480,
+            315
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            326,
+            535,
+            371
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 10,
+          "clip": [
+            125,
+            445,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 11,
+          "clip": [
+            125,
+            120,
+            550,
+            369
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_TH_T11",
+      "label": "T11",
+      "title": "Critical density and tennis balls",
+      "round": "theory",
+      "topic": "galaxies-and-cosmology",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 9,
+          "clip": [
+            54,
+            209,
+            550,
+            416
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 1,
+          "clip": [
+            125,
+            288,
+            480,
+            315
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            285,
+            530,
+            312
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            178,
+            530,
+            218
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            326,
+            535,
+            371
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 11,
+          "clip": [
+            125,
+            370,
+            550,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 12,
+          "clip": [
+            125,
+            122,
+            550,
+            236
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_TH_T12",
+      "label": "T12",
+      "title": "A radiating interstellar dust cloud",
+      "round": "theory",
+      "topic": "sun-and-stars",
+      "points": 15,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 9,
+          "clip": [
+            54,
+            417,
+            550,
+            750
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 1,
+          "clip": [
+            125,
+            166,
+            480,
+            189
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            285,
+            530,
+            312
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            178,
+            530,
+            218
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 3,
+          "clip": [
+            65,
+            326,
+            535,
+            371
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            315,
+            530,
+            341
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 2,
+          "clip": [
+            60,
+            380,
+            530,
+            404
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 1,
+          "clip": [
+            125,
+            364,
+            480,
+            390
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 12,
+          "clip": [
+            125,
+            237,
+            550,
+            593
+          ]
+        }
+      ],
+      "solution_note": "The question says that the dust re-emits UV light, although its stated 50 K temperature and the official 57.96 micrometre peak correspond to infrared emission. The source wording is retained."
+    },
+    {
+      "id": "2024_OBS-SKY_OC01",
+      "label": "OC1",
+      "title": "A sky chart from Nepal",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 10,
+          "clip": [
+            54,
+            135,
+            550,
+            752
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 13,
+          "clip": [
+            54,
+            150,
+            550,
+            665
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 14,
+          "clip": [
+            54,
+            117,
+            550,
+            548
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 16,
+          "clip": [
+            65,
+            70,
+            568,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 17,
+          "clip": [
+            65,
+            70,
+            568,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 18,
+          "clip": [
+            65,
+            70,
+            568,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 19,
+          "clip": [
+            65,
+            70,
+            568,
+            685
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 20,
+          "clip": [
+            65,
+            70,
+            568,
+            685
+          ]
+        }
+      ],
+      "solution_note": "The combined question paper and answer key use a 45-point OC1 within a 72-point observation round. The separate observation PDF instead gives OC1 43.5 points. The official key calls 2.5 points full credit for part 7 although the question allocates 3 points."
+    },
+    {
+      "id": "2024_OBS-SKY_OC02",
+      "label": "OC2",
+      "title": "Classifying Solar System objects",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 9,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 11,
+          "clip": [
+            54,
+            177,
+            550,
+            555
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 15,
+          "clip": [
+            54,
+            121,
+            550,
+            239
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 21,
+          "clip": [
+            65,
+            69,
+            540,
+            150
+          ]
+        }
+      ],
+      "solution_note": "The combined question paper and official key use six pictures and 9 points. The separate observation PDF gives nine pictures and 13.5 points. This edition follows the matching six-picture version."
+    },
+    {
+      "id": "2024_OBS-SKY_OC03",
+      "label": "OC3",
+      "title": "Identifying deep-sky objects",
+      "round": "sky-map",
+      "topic": "observation",
+      "points": 18,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 12,
+          "clip": [
+            54,
+            122,
+            550,
+            750
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 15,
+          "clip": [
+            54,
+            260,
+            550,
+            743
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 21,
+          "clip": [
+            65,
+            225,
+            540,
+            710
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 22,
+          "clip": [
+            65,
+            70,
+            540,
+            270
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_OBS-TEL_OT01",
+      "label": "OT1",
+      "title": "The Moon",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 32,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 14,
+          "clip": [
+            54,
+            144,
+            550,
+            354
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 15,
+          "clip": [
+            54,
+            140,
+            550,
+            425
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 23,
+          "clip": [
+            54,
+            635,
+            550,
+            750
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 25,
+          "clip": [
+            65,
+            69,
+            535,
+            734
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 26,
+          "clip": [
+            65,
+            82,
+            535,
+            250
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2024_OBS-TEL_OT02",
+      "label": "OT2",
+      "title": "Jupiter and its moons",
+      "round": "telescope",
+      "topic": "observation",
+      "points": 16,
+      "statement": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_question_papers.pdf",
+          "page": 14,
+          "clip": [
+            54,
+            356,
+            550,
+            505
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 24,
+          "clip": [
+            54,
+            137,
+            550,
+            566
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 26,
+          "clip": [
+            65,
+            295,
+            535,
+            710
+          ]
+        },
+        {
+          "file": "2024/Theory/Junior_IOAA_2024_answer_sheets_and_solutions.pdf",
+          "page": 27,
+          "clip": [
+            65,
+            70,
+            535,
+            507
+          ]
+        }
+      ]
+    }
+  ]
+}

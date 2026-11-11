@@ -1,0 +1,118 @@
+\begin{description}
+\item[(a)] For the Lagrange points L1 and L2, use the following diagram.
+\ioaafig{2025_TH_Q08-s1.pdf}
+For Mars in its orbit around the Sun, $F_{\mathrm{cf}}=F_{SM}$,
+\[
+M_M\omega^2r_{MS}=G\frac{M_MM_\odot}{r_{MS}^2}.
+\]\hfill(2 points)
+Hence $\omega=\sqrt{GM_\odot/r_{MS}^3}$. \hfill(1 point)
+For a mass $m$ at L1,
+\[
+m\omega^2(r_{MS}-x_{L1})=G\frac{mM_\odot}{(r_{MS}-x_{L1})^2}-G\frac{mM_M}{x_{L1}^2}.
+\]\hfill(2 points)
+Substituting $\omega^2$ and rearranging,
+\begin{align*}
+\frac{M_\odot}{r_{MS}^3}(r_{MS}-x_{L1})&=\frac{M_\odot}{(r_{MS}-x_{L1})^2}-\frac{M_M}{x_{L1}^2},\\
+M_\odot\left(1-\frac{x_{L1}}{r_{MS}}\right)^3&=M_\odot-M_M\left(\frac{r_{MS}}{x_{L1}}-1\right)^2.
+\end{align*}
+Since $x_{L1}\ll r_{MS}$, use
+\[
+\left(1-\frac{x_{L1}}{r_{MS}}\right)^3\approx1-3\frac{x_{L1}}{r_{MS}}
+\]\hfill(2 points)
+and $r_{MS}/x_{L1}-1\approx r_{MS}/x_{L1}$. \hfill(1 point)
+Thus
+\[
+3M_\odot\frac{x_{L1}}{r_{MS}}=M_M\left(\frac{r_{MS}}{x_{L1}}\right)^2,\qquad
+x_{L1}^3=\frac{M_M}{3M_\odot}r_{MS}^3,
+\]
+so $x_{L1}=r_{MS}\sqrt[3]{M_M/(3M_\odot)}$. \hfill(2 points)
+Numerically,
+\[
+x_{L1}=1.524\times1.496\times10^{11}\sqrt[3]{\frac{0.107M_\oplus}{3\times333054M_\oplus}}
+=1.08\times10^9\,\mathrm m=1.08\times10^6\,\mathrm{km}.
+\]\hfill(2 points)
+The ratio is $d_{\mathrm{Phobos}M}/x_{L1}\approx9\times10^{-3}$. \hfill(1 point)
+\item[(b)] For a mass $m$ at L2,
+\[
+m\omega^2(r_{MS}+x_{L2})=G\frac{mM_\odot}{(r_{MS}+x_{L2})^2}+G\frac{mM_M}{x_{L2}^2}.
+\]\hfill(2 points)
+As before,
+\[
+M_\odot\left(1+\frac{x_{L2}}{r_{MS}}\right)^3=M_\odot+M_M\left(\frac{r_{MS}}{x_{L2}}+1\right)^2.
+\]
+For $x_{L2}\ll r_{MS}$,
+\[
+\left(1+\frac{x_{L2}}{r_{MS}}\right)^3\approx1+3\frac{x_{L2}}{r_{MS}}
+\]\hfill(2 points)
+and $r_{MS}/x_{L2}+1\approx r_{MS}/x_{L2}$. \hfill(1 point)
+Therefore $3M_\odot x_{L2}/r_{MS}=M_M(r_{MS}/x_{L2})^2$, yielding
+\[
+x_{L2}=r_{MS}\sqrt[3]{\frac{M_M}{3M_\odot}}.
+\]\hfill(2 points)
+For Mars--Phobos,
+\[
+x_{L2}=d_{\mathrm{Phobos}M}\sqrt[3]{\frac{M_{\mathrm{Phobos}}}{3M_M}}
+=9380\sqrt[3]{\frac{1.5\times10^{-8}M_M}{3M_M}}\approx16\,\mathrm{km}.
+\]\hfill(2 points)
+L2 is close to the surface of Phobos, whose radius is 12.5\,km.
+\item[(c)]
+\ioaafig{2025_TH_Q08-s2.pdf}
+The tidal force is the difference between the attraction of Mars on mass $m$ at the satellite's near surface and on the same mass at its centre. Writing $d=d_{\mathrm{Phobos}M}$ and $R=R_{\mathrm{Phobos}}$,
+\[
+F_{\mathrm{tidal}}=G\frac{mM_M}{(d-R)^2}-G\frac{mM_M}{d^2}.
+\]\hfill(4 points)
+For $R\ll d$, $(1-R/d)^{-2}\approx1+2R/d$. \hfill(2 points)
+Consequently
+\[
+F_{\mathrm{tidal}}=G\frac{mM_M}{d^2}\left(1+\frac{2R}{d}-1\right)
+=2G\frac{mM_MR}{d^3}.
+\]\hfill(1 point)
+Phobos's attraction is $F_{\mathrm{grav}}=GmM_{\mathrm{Phobos}}/R^2$. \hfill(1 point)
+The Roche limit satisfies $F_{\mathrm{tidal}}=F_{\mathrm{grav}}$. \hfill(1 point)
+Therefore
+\[
+d_{\mathrm{Roche}}^3=2\frac{M_M}{M_{\mathrm{Phobos}}}R^3,\qquad
+d_{\mathrm{Roche}}=R\sqrt[3]{2\frac{M_M}{M_{\mathrm{Phobos}}}}.
+\]\hfill(2 points)
+Numerically, $d_{\mathrm{Roche}}=12.5\sqrt[3]{2/(1.5\times10^{-8})}=6386\,\mathrm{km}$. \hfill(2 points)
+The inward distance is $\Delta d=9380-6386=2994\,\mathrm{km}$. \hfill(1 point)
+The required time is
+\[
+\Delta t=\frac{\Delta d}{v}=\frac{2994000}{1.8\times10^{-2}}\,\mathrm{yr}=1.67\times10^8\,\mathrm{yr}.
+\]\hfill(1 point)
+
+\textbf{Alternative solution.} Model Phobos as two spheres, each of mass $M_{\mathrm{Phobos}}/2$ and density equal to that of Phobos. \hfill(3 points)
+Their radius follows from $2(4\pi r^3/3)=4\pi R^3/3$, giving $r=R/\sqrt[3]2$. \hfill(1 point)
+The mutual gravitational force is
+\[
+F_{\mathrm{grav}}=G\frac{M_{\mathrm{Phobos}}^2}{4(2r)^2}.
+\]\hfill(2 points)
+The difference in the force due to Mars is
+\[
+\Delta F=G\frac{M_MM_{\mathrm{Phobos}}}{2(d-r)^2}-G\frac{M_MM_{\mathrm{Phobos}}}{2(d+r)^2}.
+\]\hfill(2 points)
+Applying the approximation,
+\begin{align*}
+\Delta F&\approx G\frac{M_MM_{\mathrm{Phobos}}}{2d^2}
+\left(1+\frac{2r}{d}-1+\frac{2r}{d}\right)\\
+&=G\frac{2M_MM_{\mathrm{Phobos}}r}{d^3}.
+\end{align*}\hfill(2 points)
+Equating the forces gives
+\[
+G\frac{2M_MM_{\mathrm{Phobos}}r}{d_{\mathrm{Roche}}^3}=G\frac{M_{\mathrm{Phobos}}^2}{4(2r)^2}.
+\]\hfill(2 points)
+The printed key continues with
+\[
+\frac{32r^3}{d_{\mathrm{Roche}}^3}=\frac{M_{\mathrm{Phobos}}}{M_M},\qquad
+d_{\mathrm{Roche}}=2R\sqrt[3]{2\frac{M_M}{M_{\mathrm{Phobos}}}}.
+\]\hfill(1 point)
+This gives $d_{\mathrm{Roche}}=12772\,\mathrm{km}$. \hfill(1 point)
+On this model Phobos is already inside the Roche limit. \hfill(1 point)
+The official key awards full credit for this alternative model.
+\item[(d)] Let $d_S$ be the distance from the Sun's centre to the centre of mass, and $d$ the distance from the centre of mass to L4.
+\ioaafig{2025_TH_Q08-s3.pdf}
+The diagram gives
+\[
+h^2=d_{MS}^2-\frac{d_{MS}^2}{4},\qquad h=1.32\,\mathrm{au},\qquad l=2h=2.64\,\mathrm{au}.
+\]\hfill(3 points)
+\end{description}
