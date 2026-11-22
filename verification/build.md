@@ -9,7 +9,7 @@ passed.
 
 | Edition | Pages | Problem headings | Solution headings | Valid internal links |
 |---|---:|---:|---:|---:|
-| Editable LaTeX | 125 | 66 | 66 | 414 |
+| Editable LaTeX | 126 | 66 | 66 | 414 |
 | Source crops | 183 | 66 | 66 | 294 |
 
 Every problem links to its solution and each solution links back. The rendered
