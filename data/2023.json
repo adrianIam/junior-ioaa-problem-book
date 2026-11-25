@@ -625,8 +625,29 @@
           ]
         }
       ],
-      "solution": null,
-      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+      "solution": [
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+          "page": 0,
+          "clip": [
+            43,
+            60,
+            739,
+            498
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+          "page": 1,
+          "clip": [
+            37,
+            48,
+            741,
+            501
+          ]
+        }
+      ],
+      "solution_note": "The supplied annotated maps give example constellations and star identifications and mark both targets in part (c). Some star identifications are left open."
     },
     {
       "id": "2023_OBS-SKY_Q14",
@@ -707,8 +728,38 @@
           ]
         }
       ],
-      "solution": null,
-      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+      "solution": [
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_S14.pdf",
+          "page": 0,
+          "clip": [
+            53,
+            36,
+            521,
+            798
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_S14.pdf",
+          "page": 1,
+          "clip": [
+            53,
+            36,
+            405,
+            425
+          ]
+        },
+        {
+          "file": "2023/Observation (Sky Map)/IOAAJr_2023_S14.pdf",
+          "page": 2,
+          "clip": [
+            53,
+            36,
+            524,
+            486
+          ]
+        }
+      ]
     },
     {
       "id": "2023_OBS-TEL_Q15",
@@ -739,8 +790,19 @@
           ]
         }
       ],
-      "solution": null,
-      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+      "solution": [
+        {
+          "file": "2023/Observation (Telescope)/IOAAJr_2023_S15.pdf",
+          "page": 0,
+          "clip": [
+            69,
+            135,
+            545,
+            700
+          ]
+        }
+      ],
+      "solution_note": "In the model answer, (d) is the declination in three months and (e) is right ascension. The typeset solution follows the pinned question paper's labels. A completed sunspot sketch is unavailable."
     },
     {
       "id": "2023_OBS-TEL_Q16",
@@ -762,7 +824,133 @@
         }
       ],
       "solution": null,
-      "solution_note": "No official solution is included in the supplied 2023 observation papers. The surviving file contains the question and blank answer sheets."
+      "solution_note": "No official marking key or measured results are available for this task. The supplied answer sheet is blank."
+    },
+    {
+      "id": "2023_OBS-NIGHT_Lunar",
+      "label": "Main variant",
+      "title": "Lunar Observations",
+      "round": "night",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_Q.pdf",
+          "page": 0,
+          "clip": [
+            68,
+            135,
+            546,
+            680
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_Q.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            168,
+            542,
+            530
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_S.pdf",
+          "page": 0,
+          "clip": [
+            67,
+            136,
+            545,
+            665
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_S.pdf",
+          "page": 2,
+          "clip": [
+            67,
+            134,
+            545,
+            548
+          ]
+        }
+      ],
+      "solution_note": "The observation values in the key refer to the planned evening session."
+    },
+    {
+      "id": "2023_OBS-NIGHT_Stellar",
+      "label": "Backup variant",
+      "title": "Stellar Observations",
+      "round": "night",
+      "topic": "observation",
+      "points": 45,
+      "statement": [
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+          "page": 0,
+          "clip": [
+            68,
+            135,
+            546,
+            721
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+          "page": 1,
+          "clip": [
+            68,
+            135,
+            546,
+            535
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+          "page": 3,
+          "clip": [
+            70,
+            133,
+            540,
+            391
+          ]
+        }
+      ],
+      "solution": [
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+          "page": 0,
+          "clip": [
+            67,
+            133,
+            545,
+            510
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+          "page": 1,
+          "clip": [
+            70,
+            133,
+            540,
+            391
+          ]
+        },
+        {
+          "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+          "page": 2,
+          "clip": [
+            68,
+            134,
+            542,
+            404
+          ]
+        }
+      ],
+      "solution_note": "The prompt requests a 15-minute sidereal-time tolerance. The key allows 30 minutes. The printed 24:00 column is inconsistent: 19:30 + 03:05 gives 22:35, while the table lists 23:35."
     }
   ]
 }

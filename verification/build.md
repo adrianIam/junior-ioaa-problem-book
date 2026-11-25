@@ -1,5 +1,26 @@
 # Integrated build verification
 
+## Volos 2023 observation update
+
+The updated catalog has 66 problems, 63 entries with official solution
+material, and 78 figure recipes. The pinned archive contains all 37 source PDFs
+with matching Git blob and size records. Validation and both edition builds
+passed.
+
+| Edition | Pages | Problem headings | Solution headings | Valid internal links |
+|---|---:|---:|---:|---:|
+| Editable LaTeX | 126 | 66 | 66 | 414 |
+| Source crops | 183 | 66 | 66 | 294 |
+
+Every problem links to its solution and each solution links back. The rendered
+review covered the marked sky maps, the Messier and bright-star tables, the
+solar marking ranges and part-letter note, the lunar image and calculation,
+and the stellar finding charts, orientation arrows, and timing note. The
+final LaTeX log had no undefined references, missing characters, or
+overfull boxes.
+
+## Original integrated build
+
 The final catalog contains all 64 individual problems from 2022–2025 and 72
 figure recipes. There are 58 entries with supplied official solution material,
 including two 2022 variant keys, and six entries with explicit absence notes.

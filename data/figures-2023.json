@@ -188,5 +188,65 @@
       544,
       416
     ]
+  },
+  "2023_OBS-SKY_Q13-s1.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+    "page": 0,
+    "clip": [
+      43,
+      60,
+      739,
+      498
+    ]
+  },
+  "2023_OBS-SKY_Q13-s2.pdf": {
+    "file": "2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+    "page": 1,
+    "clip": [
+      37,
+      48,
+      741,
+      501
+    ]
+  },
+  "2023_OBS-NIGHT_Lunar-f1.pdf": {
+    "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_Q.pdf",
+    "page": 1,
+    "clip": [
+      70,
+      168,
+      542,
+      530
+    ]
+  },
+  "2023_OBS-NIGHT_Stellar-f1.pdf": {
+    "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+    "page": 0,
+    "clip": [
+      106,
+      402,
+      492,
+      660
+    ]
+  },
+  "2023_OBS-NIGHT_Stellar-f2.pdf": {
+    "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+    "page": 3,
+    "clip": [
+      70,
+      133,
+      540,
+      391
+    ]
+  },
+  "2023_OBS-NIGHT_Stellar-s1.pdf": {
+    "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+    "page": 1,
+    "clip": [
+      70,
+      133,
+      540,
+      391
+    ]
   }
 }

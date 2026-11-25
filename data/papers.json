@@ -1,6 +1,6 @@
 {
   "repository": "adrianIam/stars",
-  "revision": "6d9e8d7fbce5138c1edcc3dc9a5b72800672015c",
+  "revision": "d9f8c199b930e462182e7eef2a19304157f34914",
   "papers": [
     {
       "file": "2022/Observation (Night)/IOAAJr_2022_Q14-15.pdf",
@@ -111,6 +111,30 @@
       "size": 55165
     },
     {
+      "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_Q.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Night)/IOAAJr_2023_Lunar_Q.pdf",
+      "sha": "891f0465a6c189ae7836438830ff1f17f33cfe6e",
+      "size": 204106
+    },
+    {
+      "file": "2023/Observation (Night)/IOAAJr_2023_Lunar_S.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Night)/IOAAJr_2023_Lunar_S.pdf",
+      "sha": "740ca4d5e4fb999749b5d935a44b0aab0895c15c",
+      "size": 118803
+    },
+    {
+      "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Night)/IOAAJr_2023_Stellar_Q.pdf",
+      "sha": "eee6fc30e9d28f420428e5eb3a70abeffeda4a55",
+      "size": 280770
+    },
+    {
+      "file": "2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Night)/IOAAJr_2023_Stellar_S.pdf",
+      "sha": "f88647b8bde6909ecca3b7448934cce6452ff36b",
+      "size": 211171
+    },
+    {
       "file": "2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
       "path": "Junior Past Papers 2022-2025/2023/Observation (Sky Map)/IOAAJr_2023_Q13.pdf",
       "sha": "1c13af1f8948efd4efdd7ffa4ae0dcbafac8cb02",
@@ -123,10 +147,28 @@
       "size": 328037
     },
     {
+      "file": "2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Sky Map)/IOAAJr_2023_S13.pdf",
+      "sha": "466fa5d54547f6abea29742ff87bdbf30b15c00e",
+      "size": 621709
+    },
+    {
+      "file": "2023/Observation (Sky Map)/IOAAJr_2023_S14.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Sky Map)/IOAAJr_2023_S14.pdf",
+      "sha": "8d0f376b7694ad2d164abaafa91b8e415f598388",
+      "size": 49778
+    },
+    {
       "file": "2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
       "path": "Junior Past Papers 2022-2025/2023/Observation (Telescope)/IOAAJr_2023_Q15-16.pdf",
       "sha": "63d1410ee7a9744ad1b6bb69064ab622c245bf6b",
       "size": 167702
+    },
+    {
+      "file": "2023/Observation (Telescope)/IOAAJr_2023_S15.pdf",
+      "path": "Junior Past Papers 2022-2025/2023/Observation (Telescope)/IOAAJr_2023_S15.pdf",
+      "sha": "89ccddd292345a8617daca44a891ca1161b0bd91",
+      "size": 76317
     },
     {
       "file": "2023/Theory/IOAAJr_2023_Q1-12.pdf",

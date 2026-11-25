@@ -1,7 +1,7 @@
 # Junior IOAA Problem Book
 
-A collection of 64 Junior International Olympiad on Astronomy and Astrophysics
-(IOAA) problems from 2022–2025, with official solution material for 58 entries.
+A collection of 66 Junior International Olympiad on Astronomy and Astrophysics
+(IOAA) problems from 2022–2025, with official solution material for 63 entries.
 Use it to practise for the competition, explore astronomy problems, or find
 questions for lessons and study groups.
 
@@ -13,8 +13,9 @@ You can also [preview the PDF on GitHub](junior-ioaa-problem-book.pdf).
 No software installation or setup is needed to read it. Once downloaded, you
 can use it offline in your usual PDF reader.
 
-An [alternative PDF preserving the original question and solution layouts](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book-unformatted.pdf)
-is also available.
+An [alternative PDF preserving source layouts where available](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book-unformatted.pdf)
+is also available. These downloads are the last prebuilt editions. The catalog
+below includes newer material available from a source build.
 
 ## How to use it
 
@@ -35,10 +36,10 @@ the official reasoning.
 | Year | Problems | Entries with official solution material |
 |---|---:|---:|
 | 2022 | 15 | 13 |
-| 2023 | 16 | 12 |
+| 2023 | 18 | 17 |
 | 2024 | 17 | 17 |
 | 2025 | 16 | 16 |
-| **Total** | **64** | **58** |
+| **Total** | **66** | **63** |
 
 ### Notes for readers
 
@@ -47,13 +48,15 @@ includes notes wherever this affects a problem or its solution.
 
 - Two 2022 answer keys refer to different versions of their questions. The
   supplied reasoning is included, with the mismatch clearly identified.
-- Official solutions are unavailable in the supplied archive for the two 2022
-  night-observation tasks and four 2023 observation tasks.
+- Official solutions are unavailable for the two 2022 night-observation tasks
+  and the 2023 cloudy-sky telescope task.
 - The separate blank sky map and constellation-code table for 2022 Q13 are
   missing from the question file. The available annotated solution maps are
   included.
-- The 2023 telescope papers include alternative observing tasks; both are
-  included.
+- The 2023 collection includes the solar and cloudy-sky telescope alternatives
+  and the planned lunar and stellar night-observation variants. The first
+  classroom key gives example identifications. The solar key depends on the
+  sunspots visible during the examination.
 - The 2024 sky-map problems use the 72-point paper that matches the official
   answer key. Notes identify the separately issued 75-point version.
 - The 2022 multiple-choice section is worth 100 points overall, but the papers
