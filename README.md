@@ -7,15 +7,23 @@ questions for lessons and study groups.
 
 ## Read the book
 
-**[Download junior-ioaa-problem-book.pdf](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book.pdf)**
+### Latest edition — Version 2
 
-You can also [preview the PDF on GitHub](junior-ioaa-problem-book.pdf).
+**[Download junior-ioaa-problem-book-2.pdf (Version 2)](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book-2.pdf)**
+
+You can also [preview the PDF on GitHub](junior-ioaa-problem-book-2.pdf).
 No software installation or setup is needed to read it. Once downloaded, you
 can use it offline in your usual PDF reader.
 
-An [alternative PDF preserving source layouts where available](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book-unformatted.pdf)
-is also available. These downloads are the last prebuilt editions. The catalog
-below includes newer material available from a source build.
+An [alternative PDF preserving source layouts where available (Version 2)](https://raw.githubusercontent.com/adrianIam/junior-ioaa-problem-book/main/junior-ioaa-problem-book-unformatted-2.pdf)
+is also available. You can [preview the alternative PDF on GitHub](junior-ioaa-problem-book-unformatted-2.pdf).
+
+### Previous edition — Version 1 (archived)
+
+The original editions remain available for reference:
+
+- [Version 1 — typeset PDF](archive/v1/junior-ioaa-problem-book.pdf)
+- [Version 1 — unformatted PDF](archive/v1/junior-ioaa-problem-book-unformatted.pdf)
 
 ## How to use it
 
